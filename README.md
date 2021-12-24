@@ -1,8 +1,6 @@
 # This is my heading for my reading notes page. This is an h1 in HTML
 
-## This is a blerb about me in h2.
-
-What is Growth Mindset to me?
+## What is Growth Mindset to me?
 
 I believe growth mindset is a belief in ones own ability to learn, while being confident that confusion and faiure are just paths towards growing and succeeding at the process at hand. 
 
