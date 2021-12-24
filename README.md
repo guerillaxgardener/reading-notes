@@ -4,10 +4,10 @@
 
 I believe growth mindset is a belief in ones own ability to learn, while being confident that confusion and faiure are just paths towards growing and succeeding at the process at hand. 
 
-### This is H3 and is how i shall stay motivated.
+### How to keep myself in a growth mindset:
 
-* Keep learning
-* do this
-* do that
+* See challenges as opportunities to learn
+* Proper diet, eat, sleep, and frequent breaks
+* Considstently show up to practice and learn everyday.
 
 
