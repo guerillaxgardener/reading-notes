@@ -1,6 +1,6 @@
 # This is my heading for my reading notes page. This is an h1 in HTML
 
-## This would be h2, and is a blerb about me.
+## This is a blerb about me in h2.
 
 I am Michael. I love rockclimbing outdoors and gardening.
 
