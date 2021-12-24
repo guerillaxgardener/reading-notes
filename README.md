@@ -1,4 +1,4 @@
-# This is my heading for my reading notes page. This is an h1 in HTML
+# BIG ol' H1 sized HTML header!!
 
 ## What is Growth Mindset to me?
 
