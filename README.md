@@ -1,4 +1,4 @@
-# BIG ol' H1 sized HTML header!!
+# MICHAEL MAKER'S PROFILE PAGE!!!
 
 ## What is Growth Mindset to me?
 
