@@ -1,4 +1,4 @@
-# :tada: MICHAEL MAKER'S PROFILE PAGE!!! :tada:
+# Michael Maker's Profile Page
 
 ## About Me
 
