@@ -42,6 +42,5 @@
 
 ---
 
-> ##### **Pictures**
->> To insert a picture, we start with an exclamation mark, followed by title in brackets, and the path to the image within parenthesis. 
->> ![A picture I took at Lone Peak in Utah.](https://www.instagram.com/p/CTTcrGkrPaMSli5fRIrcUq8JnPHZ0v5wch5xJM0/) 
+> ##### **HTML**
+>> Many HTML tags will also work within markdown!
