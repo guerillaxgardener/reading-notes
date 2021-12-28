@@ -13,7 +13,7 @@
 
 
 > ##### **Line Breaks**
->> We can make our text break from the current line and begin tryping on the next line using a double space or using the html format #<br> in order to make it easier for others reading your code to see line breaks within the code. 
+>> We can make our text break from the current line and begin tryping on the next line using a double space or using the html format \<br> in order to make it easier for others reading your code to see line breaks within the code. 
 
 
 
