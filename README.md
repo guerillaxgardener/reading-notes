@@ -2,7 +2,7 @@
 
 ## About Me
 
-I love to skateboard, rock climb, and am currently looking into a career path towards software development during my schooling at Code Fellows.  
+Hello, my name is Michael and I love learning! Some of my favorite things to practice and learn about are skateboarding, rock climbing, gardening, and my recent learning conquest have brought me here to learn software development through Code Fellow's Training Academy.  
 
 R U SEEKING [MY GITHUB?](https://github.com/guerillaxgardener)
 
