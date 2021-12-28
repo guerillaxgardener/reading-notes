@@ -21,7 +21,7 @@
 
 
 > ##### **Lists**
->> We can create ordered or non ordered lists, to create an ordered list simply start each line with a number and period, the numbers must start with one, but do not need to be in numerical order after this. 
+>> We can create ordered or non ordered lists, to create an ordered list simply start each line with a number and period, the numbers must start with one, but do not need to be in numerical order after this. An unordered list can be formed by placing \-, \*, or \+ before eqch line.
 >> EX:
 >>>    1. cat
 >>>    2. dog
