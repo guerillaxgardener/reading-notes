@@ -18,8 +18,15 @@
 
 > ##### **Emphasis**
 >> using **bold** or _italicized_ text is an important tool to emphasize compared with plain-text.
->>> ###### /**bold** 
->>> ###### /_italicized_
+
+
+> ##### **Lists**
+>> We can create ordered or non ordered lists, to create an ordered list simply start each line with a number and period, the numbers must start with one, but do not need to be in numerical order after this. 
+>>>EX: 1. cat
+>>>    2. dog
+>>>    5. michael
+>>>    9. cheese
+>>>    57.sausage
 
 
 
