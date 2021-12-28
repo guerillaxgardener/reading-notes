@@ -18,6 +18,8 @@
 
 > ##### **Emphasis**
 >> using **bold** or _italicized_ text is an important tool to emphasize compared with plain-text.
+>>> ###### /**bold** 
+>>> ###### /_italicized_
 
 
 
