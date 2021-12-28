@@ -10,7 +10,7 @@ R U SEEKING [MY GITHUB?](https://github.com/guerillaxgardener)
 
 ### What is **Growth Mindset** to me?
 
-I believe **growth mindset** is a belief in ones own ability to learn, while being confident that **confusion and faiure are just paths towards growth and eventual success**, instead of seeing these challenges as evidnce of one's inability. 
+I believe **growth mindset** is a belief in ones own ability to learn, while being confident that **confusion and faiure are just paths towards growth and eventual success**, instead of seeing these challenges as [evidence](https://i.ytimg.com/vi/uZ1ZeLc-qjA/maxresdefault.jpg) of one's inability. 
 
 #### How to keep myself in a growth mindset:
 
