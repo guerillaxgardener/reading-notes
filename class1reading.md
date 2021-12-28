@@ -16,5 +16,8 @@
 >> We can make our text break from the current line and begin tryping on the next line using a double space or using the html format \<br> in order to make it easier for others reading your code to see line breaks within the code. 
 
 
+> ##### **Emphasis**
+>> using **bold** or _italicized_ text is an important tool to emphasize compared with plain-text.
+
 
 
