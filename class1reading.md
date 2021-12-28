@@ -1,4 +1,4 @@
-# Class 1: Learning Markdown
+# Class 1: [Learning Markdown](https://www.markdownguide.org/basic-syntax/)
 
 #### In the first lesson, we learned about using Markdown on github; this gives us a simple way to format text within a plain-text editor.
 
@@ -6,6 +6,8 @@
 
 > ##### **Headings**
 >> using different quantities of number signs allow us to change the heading size of the text to create a better overall formatting.
+> ##### **Paragraphs**
+>> Paragraphs are created within Markup by simply separating text with a blank line. 
 
 
 
