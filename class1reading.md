@@ -32,4 +32,4 @@
 
 
 > ##### **Links**
->> To create a link we list the ` \[hyperlinked_text_within_brackets](and_URL_within_parentheses) `
+>> To create a link we list the ` [hyperlinked_text_within_brackets](and_URL_within_parentheses) `
