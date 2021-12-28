@@ -2,7 +2,11 @@
 
 ## About Me
 
-I love to skateboards, rock climb, and am currently looking into a career path towards software development during my schooling at Code Fellows.
+I love to skateboards, rock climb, and am currently looking into a career path towards software development during my schooling at Code Fellows.  
+
+R U SEEKING MY GITHUB? : https://github.com/guerillaxgardener
+
+> "Michael Maker has a RADICALLY DIFFERENT github than we've ever seen before!" -anon
 
 ### What is **Growth Mindset** to me?
 
