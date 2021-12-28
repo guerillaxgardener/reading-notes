@@ -38,9 +38,10 @@
 
 > ##### **Links**
 >> To create a link we list the ` [hyperlinked_text_within_brackets](and_destination_URL_within_parentheses) ` 
->> <br> [michael's github]
->> (https://i.redd.it/xap684b6th241.jpg)
+>> <br> [michael's github](https://i.redd.it/xap684b6th241.jpg)
 
 ---
 
-> ##### ****
+> ##### **Pictures**
+>> To insert a picture, we start with an exclamation mark, followed by title in brackets, and the path to the image within parenthesis. 
+>> ![A picture I took at Lone Peak in Utah.](https://www.instagram.com/p/CTTcrGkrPaMSli5fRIrcUq8JnPHZ0v5wch5xJM0/) 
