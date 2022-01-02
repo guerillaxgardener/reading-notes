@@ -38,7 +38,7 @@ A text editor is a program that edits your plain-text, while an Integrated Devel
 
 # TERMINAL CHEAT SHEET:
 ## these shall provide us a way to interface with our processing systems through text based means. 
-> * ****_cd_****      - Change Directory like clicking forward through folders in finder, defaults to start with no follow on info.
+> * ****_cd_****      - Change Directory like clicking forward through folders in finder.
 > * ****_ls_****      - List gives us the ability to view what is in a directory.
 > * ****_mkdir_****   - Make Directory Creates a new folder/directory.
 > * ****_rm_****      - Remove Used to delete file.
