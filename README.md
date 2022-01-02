@@ -18,4 +18,15 @@ I believe a **growth mindset** is a belief in one's own ability to learn while b
 * Proper diet, eat, sleep, and frequent breaks
 * Consistently show up to practice and learn every day.
 ```
+### Table of Contents
+[Class 1 Reading](class1reading.md)
+[Class 2 Reading](class2reading.md)
+[Class 3 Reading](class3reading.md)
+[Class 4 Reading]()
+[Class 5 Reading]()
+[Class 6 Reading]()
+[Class 7 Reading]()
+[Class 8 Reading]() 
+
+
 
