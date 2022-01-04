@@ -28,9 +28,9 @@ I believe a **growth mindset** is a belief in one's own ability to learn while b
 
 [Class 3 Reading](class3reading.md)
 
-[Class 4 Reading]()
+[Class 4 Reading](class4reading.md)
 
-[Class 5 Reading]()
+[Class 5 Reading](class5reading.md)
 
 [Class 6 Reading]()
 
