@@ -31,7 +31,7 @@ ___
 
 ### ___Code 201 Reading Notes___
 
-[Class 1 Reading]()
+[Class 1 Reading](class-01.md)
 
 [Class 2 Reading]()
 
