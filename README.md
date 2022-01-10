@@ -2,25 +2,63 @@
 
 ## About Me
 
-Hello, my name is Michael and I love learning! Some of my favorite things to practice and learn about are skateboarding, rock climbing, gardening, and my recent learning conquest have brought me here to learn software development through Code Fellow's Training Academy.  
+Hello, my name is Michael and I love skateboarding, rockclimbing and am currently highly motivated to learn software development!
 
 [MY GITHUB](https://github.com/guerillaxgardener)
 
 > "Michael Maker has a RADICALLY DIFFERENT github than we've ever seen before!" -anon
 
-### What is **Growth Mindset** to me?
+[MY LINKEDIN](https://www.linkedin.com/in/michaelmak3r/)
+___
+
+### ___What is Growth Mindset to me?___
 
 I believe a **growth mindset** is a belief in one's own ability to learn while being confident that **confusion and failure are just paths towards growth and eventual success**, instead of seeing these challenges as [evidence](https://i.ytimg.com/vi/uZ1ZeLc-qjA/maxresdefault.jpg) of one's inability. 
 
-#### How I'll keep myself in a growth mindset:
+### ___How I'll keep myself in a growth mindset:___
 
 ```text
 * See challenges as opportunities to learn
+
 * Proper diet, eat, sleep, and frequent breaks
+
 * Consistently show up to practice and learn every day.
 ```
+___
 
-### Table of Contents
+### ___Code 201 Reading Notes___
+[Class 1 Reading]()
+
+[Class 2 Reading]()
+
+[Class 3 Reading]()
+
+[Class 4 Reading]()
+
+[Class 5 Reading]()
+
+[Class 6 Reading]()
+
+[Class 7 Reading]()
+
+[Class 8 Reading]()
+
+[Class 9 Reading]()
+
+[Class 10 Reading]()
+
+[Class 11 Reading]()
+
+[Class 12 Reading]()
+
+[Class 13 Reading]()
+
+[Class 14 Reading]()
+
+[Class 15 Reading]()
+___
+
+### ___Code 102 Reading Notes___
 
 [Class 1 Reading](class1reading.md)
 
