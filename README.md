@@ -33,7 +33,7 @@ ___
 
 [Class 1 Reading](class-01.md)
 
-[Class 2 Reading]()
+[Class 2 Reading](class-02.md)
 
 [Class 3 Reading]()
 
@@ -80,3 +80,11 @@ ___
 [Class 7 Reading](class7reading.md)
 
 [Class 8 Reading](class8reading.md)
+
+___
+
+#### Works Cited
+
+* ##### HTML & CSS: Design and Build Websites by Jon Duckett; ISBN 978-1-118-00818-8
+
+* ##### JavaScript & jQuery: Interactive Front-End Web Development by Jon Duckett; ISBN 978-1-118-53164-8
