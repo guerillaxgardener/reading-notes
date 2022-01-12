@@ -143,4 +143,13 @@ ___
 ### Loops
 >We use loops when we want a task to perform multiple steps on repeat
 
+___
+&#127803;
+Works Cited
+&#127803;
+>
+> Duckett, Jon. JavaScript & JQuery ; HTML & CSS. Indianapolis, Ind., John Wiley & Sons, 2014.
+>
+>Duckett, Jon. Web Design with HTML, CSS, JavaScript and JQuery Hoboken, John Wiley & Sons, 2014.
+
 [<===== BACK!](README.md)
