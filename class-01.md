@@ -133,10 +133,13 @@ Designing a script is done using ___TASKS___
 
 Coding the steps involves a knowledge of ___VOCABULARY___ and ___SYNTAX___ to allow for proper coding in the correct format for the comuter to understand and perform our tasks.
 
+___
+&#127803;
 Works Cited
-
+&#127803;
+>
 > Duckett, Jon. JavaScript & JQuery ; HTML & CSS. Indianapolis, Ind., John Wiley & Sons, 2014.
 >
-‌> Duckett, Jon. Web Design with HTML, CSS, JavaScript and JQuery. Hoboken, John Wiley & Sons, 2014.
+>Duckett, Jon. Web Design with HTML, CSS, JavaScript and JQuery Hoboken, John Wiley & Sons, 2014.
 
 [<===== BACK!](README.md)
