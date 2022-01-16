@@ -10,29 +10,29 @@ ___
 
 [Class 3 Reading](class-03.md)
 
-[Class 4 Reading]()
+[Class 4 Reading](class-04.md)
 
-[Class 5 Reading]()
+[Class 5 Reading](class-05.md)
 
-[Class 6 Reading]()
+[Class 6 Reading](class-06.md)
 
-[Class 7 Reading]()
+[Class 7 Reading](class-07.md)
 
-[Class 8 Reading]()
+[Class 8 Reading](class-08.md)
 
-[Class 9 Reading]()
+[Class 9 Reading](class-09.md)
 
-[Class 10 Reading]()
+[Class 10 Reading](class-10.md)
 
-[Class 11 Reading]()
+[Class 11 Reading](class-11.md)
 
-[Class 12 Reading]()
+[Class 12 Reading](class-12.md)
 
-[Class 13 Reading]()
+[Class 13 Reading](class-13.md)
 
-[Class 14 Reading]()
+[Class 14 Reading](class-14.md)
 
-[Class 15 Reading]()
+[Class 15 Reading](class-15.md)
 
 ___
 
