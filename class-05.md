@@ -1,49 +1,89 @@
-# More CSS Layout
+# Images, Color, Text
 
-## CHAPTER 15 Duckett HTML/ CSS Textbook "Layout" (pp repeat of class 4)
+## Images 94-125
 
-<!-- ## Header
+##### Duckett HTML book
 
-___
+### Add image to page
 
-__Event:__ gets fired or raised to trigger the code
+Place in HTML doc to add
 
-> ex: click, submit, mouse over, mouse down, key press
+```HTML
+<img src = "images/michael.jpeg" alt= "Photo of human sitting on giant cheese grater" title= "the King is In">
+```
 
-__Code:__ Gets triggered
+### Choose image format
 
-* Event Listener : listens for an event like clcking and activates the *event handler* code.
+Stock mages may be purchased for use, choose images that add value to webpage in a smart and themed way.
 
-* Event Handler : Code that runs n response to event listener
+### Optimize for web 
 
-### How WE SHALL DO THIS
+Images may be stored on site for efficiency
 
-> `element.addEventListener('event', callback function);` like "keyPress", "click", etc
+Jpeg is best for photos and illustrations or logos saved flat are best as GIFs.
 
-* *Callback Function* = function that is passed in as an argument to another function
+---
 
-* declaring a function and passing n a callback will run callback functon along with other funtion.
+## Color 246-263
 
-> EX: `button.addEventListener('submit', handleSubmit)
+##### Duckett HTML book
 
-___*Event Bubbling:*___ This is what we often see, which features overlapping bubbles of events
+### How to specify color?
 
-* ___Event listener___ will be placed on outter bubble (bubbles can be thought of as HTML section boxes)
+* RGB values
+  rgb(102,205,170)
+* HEX Codes
+  * #66cdaa
+* Color Names
+  * MediumAquaMarine
 
+### Color Terminology
 
-## CHAPTER 14 Duckett HTML Textbook "Lists, Tables, & Forms" (pp 330-357)
+* Hue :changes color
 
-### HEADER
+* Saturation: Amount of gray in a color
 
-### HEADER
+* Brightness: How much black in color
 
-#### Lil smaller
+* Opacity: decides if object is solid or transparent
 
-* 
+---
 
-* 
+## CSS Text 264-299
 
-* 
-___ -->
-___
-===== BACK!](README.md)
+##### Duckett HTML book
+
+### Size and typeface of text
+
+* Typeface
+  * serif: Extra details
+
+  * sans-serif: No extra details
+
+  * monospace: fixed-width font
+
+Font size : `font-size: 12px;`
+
+### Different styles
+
+* Bold `font-weight: bold;`
+
+* Italic: `font-style: italic;`
+
+### Line spacing
+
+* Letter-spacing
+
+* Line-spacing
+
+* Alignment: `text-align: left/center/right;`
+
+---
+
+## [JPG VS PNG VS GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d?gi=49053125f883)
+
+##### Duckett HTML book
+
+### Size and typeface of text
+
+<===== [BACK!](README.md)
