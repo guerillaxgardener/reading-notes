@@ -1,80 +1,115 @@
 # HTML Lists, Control Flow with JS, and the CSS Box Model
 
-## CHAPTER 3 Duckett HTML/ CSS Textbook "Lists" (pp 62-73)
+## HTML Lists
 
- <!-- ## Header
+##### Duckett HTML/ CSS Textbook
 
-___
+Ordered Lists : Numbered lists.
 
-__Event:__ gets fired or raised to trigger the code
+* `<ol>` creates list
 
-> ex: click, submit, mouse over, mouse down, key press
+* `<li>` line item in list
 
-__Code:__ Gets triggered
+  * Browser indents list.
+  
+Unordered Lists: Bullet points.
 
-* Event Listener : listens for an event like clcking and activates the *event handler* code.
+Definiton Lists: Terms with definitions.
 
-* Event Handler : Code that runs n response to event listener
-
-### How WE SHALL DO THIS
-
-> `element.addEventListener('event', callback function);` like "keyPress", "click", etc
-
-* *Callback Function* = function that is passed in as an argument to another function
-
-* declaring a function and passing n a callback will run callback functon along with other funtion.
-
-> EX: `button.addEventListener('submit', handleSubmit)
-
-___*Event Bubbling:*___ This is what we often see, which features overlapping bubbles of events
-
-* ___Event listener___ will be placed on outter bubble (bubbles can be thought of as HTML section boxes) -->
+We can nest lists within each other!
 
 ---
 
-## CHAPTER 13 Duckett HTML Textbook "Boxes" (pp 70-73)
+## CSS Boxes
 
-<!-- ### HEADER
+##### Duckett HTML/ CSS Textbook
 
-### HEADER
+### CSS 
+  
+* treats all elements it contains as being contianed in their own individual boxes
+* CSS controls many dimensions of boxes.
+* CSS allows for customization of features for each 'box' like:
+  * Borders
+  * Margin
+  * Padding
 
-#### Lil smaller
+Block and inline boxes may be converted into one another to stack individual boxes vertcally or horizontally.
 
-* 
+CSS3 has ability to create image borders and to round our border corners in interesting ways.
 
-* 
+## Basic JavaScript Instructions
 
-*  -->
+##### Duckett JS Textbook
+
+### Arrays special veriable type storng a list of values in many ways.
+
+```JavaScript
+ var colors;
+  colors = [red, blues, black];
+
+
+  //update third item in array
+  colors[2] = 'orange';
+```
 
 ---
 
-## CHAPTER 2 Duckett JS Textbook "Basic JS Instructions" (pp 300-329)
+## Decisions and Loops
 
-<!-- ### HEADER
+##### Duckett JS Textbook 162-182
 
-### HEADER
+### if... else statements
 
-#### Lil smaller
+```JavaScript
+ if (score >= 50) {
+    congrgagulate();   //code to execute if true
+    } else  {
+    encourage();
+    }
+```
 
-* 
-
-* 
-
-*  -->
 
 
-## CHAPTER 4 Duckett JS Textbook "Decisions and Loops" (pp 162-182)
 
-<!-- ### HEADER
+### Switch Statements
 
-### HEADER
+* start with a switch value and different cases determine whch code will run based off varables matching to value
 
-#### Lil smaller
+```JavaScript
+ switch (level) {
 
-* 
+   case 'One':
+     title = 'Level 1';
+     break;
 
-* 
+    case 'Two':
+      title = 'Level 2';
+      break;
 
-*  -->
-___
-===== BACK!](README.md)
+    default:
+      title = 'Test';
+      break;
+ }
+```
+
+### Loops check a condition and runs repeatedly until some condition listed within returns false
+
+#### For Loops: used to run code for a specific quantity of loops
+
+```JavaScript
+for (var i = 0; i < 10;; i++) {
+  document.write(i);
+}
+```
+
+#### While Loops: Used when we do not know how many times a code should be cycled through; not a counter and will loop so long as a condition stated is true
+
+```Javascript
+while (i < 10){
+  msg += i + ' x 5 ' + (i*5) + '<br />';
+}
+```
+
+#### Do while loop: Simlar operation to the While Loop, but will run through all code in curly backets one time at least even if condition evaluates to false
+
+<=====[ BACK!](README.md)
