@@ -1,49 +1,116 @@
-# HTML Links, JS Functions, and Intro to CSS Layout
+# Reading 4  HTML Links, JS Functions, and Intro to CSS Layout
 
-## CHAPTER 15 Duckett HTML/ CSS Textbook "Layout" (pp repeat of class 4)
+---
 
-<!-- ## Header
+## HTML Links
 
-___
+* Very important tool enabling us to travel around the web
 
-__Event:__ gets fired or raised to trigger the code
+##### Duckett HTML/ CSS Textbook
 
-> ex: click, submit, mouse over, mouse down, key press
+Created with `<a>` element. and specify page with href
 
-__Code:__ Gets triggered
+### Types of common links:
 
-* Event Listener : listens for an event like clcking and activates the *event handler* code.
+* Links between pages
 
-* Event Handler : Code that runs n response to event listener
+* Linking to other sites
 
-### How WE SHALL DO THIS
+* Email Links
 
-> `element.addEventListener('event', callback function);` like "keyPress", "click", etc
+---
 
-* *Callback Function* = function that is passed in as an argument to another function
+## HTML Layout
 
-* declaring a function and passing n a callback will run callback functon along with other funtion.
+##### Duckett HTML/ CSS Textbook
 
-> EX: `button.addEventListener('submit', handleSubmit)
+### HTML Building Blocks
 
-___*Event Bubbling:*___ This is what we often see, which features overlapping bubbles of events
+<div> element often used to contain a similar grouping of elements.
 
-* ___Event listener___ will be placed on outter bubble (bubbles can be thought of as HTML section boxes)
+#### Block-Level Elements : Same line content
 
+* <h1>
 
-## CHAPTER 14 Duckett HTML Textbook "Lists, Tables, & Forms" (pp 330-357)
+* <p>
 
-### HEADER
+* <ul>
 
-### HEADER
+* <li>
 
-#### Lil smaller
+#### Inline Elements : Flow in between text
 
-* 
+* <img>
 
-* 
+* <b>
 
-* 
-___ -->
-___
-===== BACK!](README.md)
+* <i>
+
+### CSS Element Positioning
+
+Browsers will default to normal flow without specification.
+
+* Normal Flow: Every block element will receive its own line
+
+* Relative Positioning: Shifts elements around without affecting surroundings
+
+* Absolute Positioning: positions in relaton to containing element without affecting surrounding elements.
+
+* Floating an element allows us to just place it on a sde of a box.
+
+### Page Size
+
+Commonly between 960-1000 px wide and talk of pages purpose in first 600px height to fit on most monitors and give quick info.
+
+a good CSS framework provides rules for common tasking done repeatedly.
+
+### Grids
+
+Allow us to create professional and flexible design simply with our webpages.
+
+---
+
+## Functions, Methods, and Objects 86-99
+
+##### Duckett JS Textbook
+
+### JavaScript Function
+
+Lets you group many statements together to perform a specific task.
+
+```JavaScript
+function = updateMessage() {    //this top group of info is the FUNCTION DECLARATON
+  var el = document.getElementById('message');
+  el.textContent = msg
+}
+updateMessage();      //here we are calling the function
+```
+
+* parameters are just variables within functions.
+
+* to receive a value from a function, assign value to variable and then return variable.
+
+* to receive multiple value returns, use an array inside variable.
+
+#### Local vs Global Scopes:
+
+* Local Variables : created with `var` inside function and only exists within functon's scope
+
+* Global Variables: created outside function and can be used throughout your script.
+
+## Reasons for Pair Programming
+
+* Pair programming is so valuable because we are working many types of development skills:
+
+  * Listening
+  * Speaking
+  * Reading
+  * Writing
+
+* May aid in increased code efficiency than each dev separately.
+* Engaged constantly in collaborating
+* Learning from one another to strengthen team
+* Prepares us for job search
+* Prepares us for our future work environments
+
+<>===== [BACK!](README.md)
