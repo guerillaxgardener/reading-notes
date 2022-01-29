@@ -30,6 +30,7 @@ Created with `<a>` element. and specify page with href
 
 #### Block-Level Elements : Same line content
 
+```HTML
 * <h1>
 
 * <p>
@@ -37,14 +38,18 @@ Created with `<a>` element. and specify page with href
 * <ul>
 
 * <li>
+```
 
 #### Inline Elements : Flow in between text
+
+```HTML
 
 * <img>
 
 * <b>
 
 * <i>
+```
 
 ### CSS Element Positioning
 
