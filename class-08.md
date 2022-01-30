@@ -1,49 +1,28 @@
 # More CSS Layout
 
-## CHAPTER 15 Duckett HTML/ CSS Textbook "Layout" (pp repeat of class 4)
+##### CHAPTER 15 Duckett HTML/ CSS Textbook "Layout" (pp repeat of class 4)
 
-<!-- ## Header
+## [Learn CSS - Layout](https://web.dev/learn/css/layout/)
 
-___
+### display: determines inline or block
 
-__Event:__ gets fired or raised to trigger the code
+### Flexbox and Grid
 
-> ex: click, submit, mouse over, mouse down, key press
+* flexbox: Layout mechanism for one dimensional elements
 
-__Code:__ Gets triggered
+* grid: Similar to flexbox but for multi-axis layouts
 
-* Event Listener : listens for an event like clcking and activates the *event handler* code.
+###
 
-* Event Handler : Code that runs n response to event listener
+---
 
-### How WE SHALL DO THIS
+## Ch. 15, Layout
 
-> `element.addEventListener('event', callback function);` like "keyPress", "click", etc
+#####  Duckett HTML/CSS Textbook
 
-* *Callback Function* = function that is passed in as an argument to another function
+* <div> elements are commonly containing grouped elements on page
+* `float` property moves content left or tight of page and can be used for setting up page columns.
+* Some pages are a fixed-width while a popular new style of page is dynamic or 'stretchy' and will self adjust to a changing page dimension.
+* We may link multple CSS files to one page.
 
-* declaring a function and passing n a callback will run callback functon along with other funtion.
-
-> EX: `button.addEventListener('submit', handleSubmit)
-
-___*Event Bubbling:*___ This is what we often see, which features overlapping bubbles of events
-
-* ___Event listener___ will be placed on outter bubble (bubbles can be thought of as HTML section boxes)
-
-
-## CHAPTER 14 Duckett HTML Textbook "Lists, Tables, & Forms" (pp 330-357)
-
-### HEADER
-
-### HEADER
-
-#### Lil smaller
-
-* 
-
-* 
-
-* 
-___ -->
-___
-===== BACK!](README.md)
+<===== [BACK!](README.md)
