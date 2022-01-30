@@ -1,49 +1,111 @@
-# More CSS Layout
+# HTML Tables; JS Constructor Functions
 
-## CHAPTER 15 Duckett HTML/ CSS Textbook "Layout" (pp repeat of class 4)
+## [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
-<!-- ## Header
+* The process of laying out a way to solve your specific problem with a conceptual model to be used as a map of sorts.
 
-___
+  * Doing this well can really help us to articulate the problem we're attempting to solve.
 
-__Event:__ gets fired or raised to trigger the code
+### Tips for building our domain models
 
-> ex: click, submit, mouse over, mouse down, key press
+1. Build ___self-contained object___ with the same attributes and behaviors when modeling a single entity for a specific problem.
 
-__Code:__ Gets triggered
+2. Model its ___attributes___ with a constructor function that defines and initializes properties
 
-* Event Listener : listens for an event like clcking and activates the *event handler* code.
+3. Model it's ___behavior___ with small methods that focus on doing one job well
 
-* Event Handler : Code that runs n response to event listener
+4. Use the `new` keyword followed by call to a constructor function to create ___instances___
 
-### How WE SHALL DO THIS
+5. Store new object in a variable to access methods and properties from outside
 
-> `element.addEventListener('event', callback function);` like "keyPress", "click", etc
+6. Use `this` variable within methods so you can access objects properties and methods from inside.
 
-* *Callback Function* = function that is passed in as an argument to another function
+---
 
-* declaring a function and passing n a callback will run callback functon along with other funtion.
+## CH 6 HTML Tables
 
-> EX: `button.addEventListener('submit', handleSubmit)
+##### Duckett HTML/ CSS Textbook (pp126-145)
 
-___*Event Bubbling:*___ This is what we often see, which features overlapping bubbles of events
+A table is a convenient way to display some data types by separating it into a grid format.
 
-* ___Event listener___ will be placed on outter bubble (bubbles can be thought of as HTML section boxes)
+### How to create tables
+
+* written out ___ROW by ROW___
+* `<table>` element used to create the table
+* `<tr>` (table row) opening tag denotes the start of a new row
+* `<td>` each cell of a table is represented by Table Data element
+* `<th>` Table Heading element used to represent a row or column header
+* `<colspan>` attribute can be used on th or td elements to indicate them spanning multiple columns
+* `<rowspan>` attribute to make th or td span more than one row
+* `<thead>` heading items should sit inside this element
+*`<tbody>`body of table should live here
+* `<tfoot>` footer lives here
+
+---
+
+## CH 3 Functions, Methods, and Objects
+
+##### Duckett JS Book
+
+### Creating an Object: ___CONSTRUCTOR___
+
+```JavaScript
+var cats = new Object();
+// ^^^^ object
+hotel.name = 'Quay';
+hotel.rooms = 40;
+hotel.booked = 25;
+// ^^^ Key-value pairs (properties)
+hotel.checkAvailablity = function(){
+  return this.rooms - this.booked;
+// ^^^ Method (function inside constructor)
+};
+```
+
+### Updating object
+
+* Use dot notation
+
+* Use square brackets
+
+```JavaScript
+hotel.name = 'Park';
+// obj.property_name = property value;
+//    ^ member oper. ^ assignment operator
+//  orrrrrrr.......
 
 
-## CHAPTER 14 Duckett HTML Textbook "Lists, Tables, & Forms" (pp 330-357)
+hotel['name'] = 'Park';
+```
 
-### HEADER
+### THIS (THE KEYWORD)
 
-### HEADER
+Commonly used inside functions and objects.
+Refers to object in which the function operates.
 
-#### Lil smaller
+### Arrays are objects
 
-* 
+* They are a special type of object holding related set of key/value pairs (like all objects)
+* key for all values are their corresponding index values
 
-* 
+### Three groups of Built-In Objects
 
-* 
-___ -->
-___
-===== BACK!](README.md)
+1. Document Object Model: creates a model of the current web page.
+
+2. Browser Object Model: creates a model of browser tab/window
+
+3. Global JavaScript Objects: Group of objects often starting with capital letter.
+
+* string: working with strings
+
+* number: working with numbers
+
+* boolean: working with boolean values
+
+* date: handle dates
+
+* math: calculations
+
+* regex: match patterns in strings
+
+<===== [BACK!](README.md)
