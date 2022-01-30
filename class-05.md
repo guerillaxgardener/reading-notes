@@ -82,8 +82,16 @@ Font size : `font-size: 12px;`
 
 ## [JPG VS PNG VS GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d?gi=49053125f883)
 
-##### Duckett HTML book
+### JPEG
 
-### Size and typeface of text
+Image format to use for images with natural scenery or photography since transitions between color and intensity are smooth
+
+### PNG
+
+Use PNG format for any images requiring transparency, or images that include some form of text or logos.
+
+### GIF
+
+Use GIF format for images that are animated.
 
 <===== [BACK!](README.md)

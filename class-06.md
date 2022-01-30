@@ -1,5 +1,10 @@
 # Problem Domain, Objects, and The DOM
 
+<!-- From the Duckett JS book:
+
+Chapter 3: “Object Literals” (pp.100-105)
+Chapter 5: “Document Object Model” (pp.183-242) -->
+
 ## [Understanding Problem Domain](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
 Often this ability to understand a problem domain is the primary factor getting in the way for people in programming.
@@ -10,10 +15,35 @@ Often this ability to understand a problem domain is the primary factor getting 
 
 ## Primitive Values Vs Object References
 
+### Value vs reference
 
+primitive ___values___ are assigned to a value directly
 
+* `const moe = 'MOE'`
 
+* cannot be changed (immutable)
 
+___Objects___ do not assign a value but instead a reference to a value.
+
+* Values can be changed (mutated)
+
+### Primitive Values
+
+  1. Boolean
+  2. Null
+  3. Undefined
+  4. Number
+  5. BigInt
+  6. String
+  7. Symbol
+
+### Object References
+
+  1. Arrays
+  2. Functions
+  3. Dates
+
+---
 
 ## JS Chapter 3 : Object Literals
 
@@ -54,4 +84,4 @@ DOM specifies how browsers should create HTML model
 
 2. use text content, child elements, and attributes from the element.
 
-===== [BACK!](README.md)
+<>===== [BACK!](README.md)
