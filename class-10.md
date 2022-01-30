@@ -25,20 +25,25 @@ Ways to debug:
 * ___Reference Error___
   * Undefined
   * Unreachable code after ...
-<!--  -->
+
 * ___Type Error___
   * `4.toUpperCase();` looking for a different data type
 
-<!--  -->
 * ___Syntax Error___
-    *Unexpected token  
-
-
-
+  * Unexpected token  
 
 ### CSS Debugging Workflow
 
+* Where is the problem?
 
+  * Look at error message
+  * How far script runs?
+  * use breakpoints where things go wrong
 
+* What is the problem?
 
-===== BACK!](README.md)
+  * analyze breakpoints
+  * break down parts of code to test
+  * check parameter numbers in function or items in array
+
+<===== [BACK!](README.md)
