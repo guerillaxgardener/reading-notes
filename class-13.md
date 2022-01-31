@@ -1,11 +1,6 @@
-# Basics of HTML, CSS, and JavaScript : 
+# Local Storage
 
-
-
-
-
-
-## Local Storage
+* Stored in ___FILE SYSTEM___
 
 * Stored by browser through application onto our computer's harddrive.
 
@@ -15,9 +10,4 @@
 
 ___JSON___ : JavaScript object notation
 
-* 
-
-
-## HTML Chapter XXX : YA YA YA
-
-===== BACK!](README.md)
+<===== [BACK!](README.md)
