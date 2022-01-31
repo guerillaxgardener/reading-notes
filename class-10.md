@@ -6,7 +6,7 @@ Ways to debug:
 
 * `console.log` <- variable check to see we're properly setup
 
-* Break ponts in Google Chrome Dev tools
+* Break points in Google Chrome Dev tools
 
 * Google - docs, MDN, W3Schools, StackOverflow
 
