@@ -1,20 +1,39 @@
 # Docs for the HTML `<canvas>` Element & Chart.js
 
-## HTML Chapter XXX : YA YA YA
+## [Chart.js API](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
-## https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/
+### Simple way to create stunning charts using open-sourced code
 
+### Included charts
 
-## Chart.js docs
+* line chart
+
+* pie chart
+
+* bar chart
+
+* and more!
+
+---
 
 ## Canvas api
 
-### Basic Usage
+* used with width and height
 
-### Drawing shapes with canvas
+* can be styled like other elements
+
+* Used to display things like our charts
 
 ### Applying text and colors
 
-### Drawing text
+* Applying colors to shapes:
+  * `fillstyle = color`
+  * `strokestyle = color`
 
-===== BACK!](README.md)
+* Applying Transparency
+  * ` globalAlpha = transparencyValue
+
+    * applies to all future shapes drawn on canvas
+
+
+<===== [BACK!](README.md)
