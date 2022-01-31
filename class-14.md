@@ -38,15 +38,6 @@
 
 ### Many old ways assumed the best teams were formed by simply grouping introverts, friends, or the best performing workers; this is not always the case though.
 
-### Project Aristotle at Google researched groups extensively and concluded that understanding and influencing group norms are the key to improving their work teams.
+### Project Aristotle at Google researched groups extensively and concluded that understanding and influencing group norms are the key to improving their work teams
 
-
-
-
-
-
-___
-
-## HTML Chapter XXX : YA YA YA
-
-===== BACK!](README.md)
+<===== [BACK!](README.md)
