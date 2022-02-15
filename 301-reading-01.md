@@ -12,7 +12,7 @@ _____What is a “component”?_____
 
 _____What are the characteristics of a component?_____
 
-* Reusable : able to be plugged into multiple areas after beng developed once.
+* Reusable : able to be plugged into multiple areas after being developed once.
 
 * Replaceable : Can be updated without breaking code.
 
@@ -58,7 +58,7 @@ _____What are the advantages of using component-based architecture?_____
 
 ### What is the flow of props?
 
-Uni-Lateral downwards from parent to child. The child should inhert data from parent, but not change it.
+Uni-Lateral downwards from parent to child. The child should inherit data from parent, but not change it.
 
 ---
 
