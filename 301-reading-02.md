@@ -68,7 +68,7 @@
 
   * State is handled ___inside___ component
 
-  * Props are passed into conponent from ___outside___
+  * Props are passed into component from ___outside___
 
     * Props are changed outside of app
 
