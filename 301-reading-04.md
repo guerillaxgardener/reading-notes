@@ -39,11 +39,23 @@ Code Source: <https://reactjs.org/docs/forms.html>
 
 ## [The Conditional/Ternary Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeffl)
 
+___What to know___
+
+1. Condition : This is wher we're actually testing
+
+2. ? separates the conditional from the true value. Any code between '?' and ':' is performed if true
+
+3. Finally the colon : if code evaluates false, code after colon executes.
+
+
 ___Why would we use a ternary operator?___
+
+To shorten our code like if statements into one line of code.
 
 ___Rewrite the following statement using a ternary statement:___
 
 ```JavaScript
+// typcal 'if'...
 if(x===y){
   console.log(true);
 } else {
@@ -51,6 +63,12 @@ if(x===y){
 }
 ```
 
+Can be writen as.....
+
+```JavaScript
+// Ternary 'if'
+(x===y) ? console.log(true) : console.log(false)
+```
 
 
 
