@@ -1,4 +1,4 @@
-# Code 201 Class 01 Reading
+# Code 201 Class 01 Reading - HTML Structure
 
 ## HTML
 
