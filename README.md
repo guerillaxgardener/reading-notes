@@ -4,89 +4,87 @@
 
 ## ___Code 301 - Intermediate Software Development___
 
-[Class 1 Reading](301-reading-01.md)
+[Class 1 Reading - React and Components](301-reading-01.md)
 
-[Class 2 Reading](301-reading-02.md)
+[Class 2 Reading - State and Props](301-reading-02.md)
 
-[Class 3 Reading](301-reading-03.md)
+[Class 3 Reading - Passing Functions as Props](301-reading-03.md)
 
-[Class 4 Reading](301-reading-04.md)
+[Class 4 Reading - React and Forms](301-reading-04.md)
 
-[Class 5 Reading](301-reading-05.md)
+[Class 5 Reading -](301-reading-05.md)
 
-[Class 6 Reading](301-reading-06.md)
+[Class 6 Reading -](301-reading-06.md)
 
-[Class 7 Reading](301-reading-07.md)
+[Class 7 Reading -](301-reading-07.md)
 
-[Class 8 Reading](301-reading-08.md)
+[Class 8 Reading -](301-reading-08.md)
 
-[Class 9 Reading](301-reading-09.md)
+[Class 9 Reading -](301-reading-09.md)
 
-[Class 10 Reading](301-reading-10.md)
+[Class 10 Reading -](301-reading-10.md)
 
-[Class 11 Reading](301-reading-11.md)
+[Class 11 Reading -](301-reading-11.md)
 
-[Class 12 Reading](301-reading-12.md)
+[Class 12 Reading -](301-reading-12.md)
 
-[Class 13 Reading](301-reading-13.md)
+[Class 13 Reading -](301-reading-13.md)
 
-[Class 14 Reading](301-reading-14.md)
+[Class 14 Reading -](301-reading-14.md)
 
-[Class 15 Reading](301-reading-15.md)
+[Class 15 Reading -](301-reading-15.md)
 
 ---
 
 ## ___Code 201 - Foundations of Software Development___
 
-[Class 1 Reading](class-01.md)
+[Class 1 Reading - HTML Structure](class-01.md)
 
-[Class 2 Reading](class-02.md)
+[Class 2 Reading - Basics of HTML, CSS, and JavaScript](class-02.md)
 
-[Class 3 Reading](class-03.md)
+[Class 3 Reading - HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
 
-[Class 4 Reading](class-04.md)
+[Class 4 Reading - HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 
-[Class 5 Reading](class-05.md)
+[Class 5 Reading - Images, Color, Text](class-05.md)
 
-[Class 6 Reading](class-06.md)
+[Class 6 Reading - Problem Domain, Objects, and The DOM](class-06.md)
 
-[Class 7 Reading](class-07.md)
+[Class 7 Reading - HTML Tables; JS Constructor Functions](class-07.md)
 
-[Class 8 Reading](class-08.md)
+[Class 8 Reading - More CSS Layout](class-08.md)
 
-[Class 9 Reading](class-09.md)
+[Class 9 Reading - HTML Forms and JS Events](class-09.md)
 
-[Class 10 Reading](class-10.md)
+[Class 10 Reading - Debugging & Class 10 Notes](class-10.md)
 
-[Class 11 Reading](class-11.md)
+[Class 11 Reading - CSS Grid, HTML Images, Practical Info](class-11.md)
 
-[Class 12 Reading](class-12.md)
+[Class 12 Reading - Docs for the HTML ](class-12.md)
 
-[Class 13 Reading](class-13.md)
+[Class 13 Reading - Local Storage](class-13.md)
 
-[Class 14 Reading](class-14.md)
-
-[Class 15 Reading](class-15.md)
+[Class 14 Reading - CSS Transforms, Transitions, and Animations](class-14.md)
 
 ---
 
 ## ___Code 102 - Intro to Software Development___
 
-[Class 1 Reading](class1reading.md)
+[Class 1 Reading - Learning Markdown](class1reading.md)
 
-[Class 2 Reading](class2reading.md)
+[Class 2 Reading - Text Editor, IDEs, Terminal Commands](class2reading.md)
 
-[Class 3 Reading](class3reading.md)
+[Class 3 Reading - All About GIT](class3reading.md)
 
-[Class 4 Reading](class4reading.md)
+[Class 4 Reading - Structuring Webpages with HTML](class4reading.md)
 
-[Class 5 Reading](class5reading.md)
+[Class 5 Reading - CSS (Cascading Style Sheets)](class5reading.md)
 
-[Class 6 Reading](class6reading.md)
+[Class 6 Reading Dynamic Webpages with Javascript](class6reading.md)
 
-[Class 7 Reading](class7reading.md)
+[Class 7 Reading - Programming With Javascript](class7reading.md)
 
-[Class 8 Reading](class8reading.md)
+[Class 8 Reading - Operators and Loops](class8reading.md)
 
 ---
 
