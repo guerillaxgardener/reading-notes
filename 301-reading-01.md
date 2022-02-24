@@ -22,7 +22,7 @@ _____What are the characteristics of a component?_____
 
 * Encapsulated : Component will depict an interface so users may call on functionality.
 
-* Independent : Component is designed with a self-reliant buildout so surrounding code may be changed.
+* Independent : Component is designed with a self-reliant build so surrounding code may be changed.
 
 _____What are the advantages of using component-based architecture?_____
 

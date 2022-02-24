@@ -4,11 +4,12 @@
 
 ___What is the single responsibility principle and how does it apply to components?___
 
-*  Single responsibilty princple is the belief within programming that says "modules, classes, and functions within a cpomputer program should only have responsibility over a [single part of programs functionality"](https://en.wikipedia.org/wiki/Single-responsibility_principle) <br> -wikipedia
+* Single responsibility principle is the belief within programming that says "modules, classes, and functions within a computer program should only have responsibility over a [single part of programs functionality"](https://en.wikipedia.org/wiki/Single-responsibility_principle)  
+-wikipedia
 
 ___What does it mean to build a ‘static’ version of your application?___
 
-* This is the initial version of our App that wll render UI but without interactivity.
+* This is the initial version of our App that will render UI but without interactivity.
 
   * static building: much type, little think
 
@@ -30,7 +31,7 @@ ___How can you identify where state needs to live___?
 
 1. Identify every component rendering something based off that state
 
-2. Find a common owner component (this component should live above all components needng the state)
+2. Find a common owner component (this component should live above all components needing the state)
 
 3. If no higher such component exists, we can create a component solely for holding state.
 

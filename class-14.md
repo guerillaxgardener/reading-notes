@@ -2,7 +2,7 @@
 
 ### CSS Transforms
 
-* New CSS property allowing alternative ways to mainpulate CSS elements
+* New CSS property allowing alternative ways to manipulate CSS elements
   * 2D and 3D
 
 * `rotate` allows 0 to 360 degree rotation of elements

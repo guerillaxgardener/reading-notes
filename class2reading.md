@@ -2,21 +2,25 @@
 
 ## Text Editor & IDEs
 
-### When choosing a text editor for our programming journeys, there are a TON of possibilities to choose from. The most important part, since all will get jobs done, is to find one you enjoy using.
+### When choosing a text editor for our programming journeys, there are a TON of possibilities to choose from. The most important part, since all will get jobs done, is to find one you enjoy using
 
 > The text editor is one of our most important tools to become skilled in as programmers; we shall use it to write and manage out text as we code.
 
 ## Primary uses for text editor are
 
--code completion for improved typing speed
--syntax highlighting to aid our brains in differentiating and reading our code
--themes to select in order to make display more easy on the eyes
--extension availablity to enhance capabilities
+- code completion for improved typing speed
+
+- syntax highlighting to aid our brains in differentiating and reading our code
+
+- themes to select in order to make display more easy on the eyes
+
+- extension availability to enhance capabilities
+
 ---
 
 ## A Few Third-Party Text Editor Options
 
-### - Notepad++ : A classic text editior for windows, incldes:
+### - Notepad++ : A classic text editor for windows, includes
 
       * syntax highlighting
       * code completion
@@ -33,7 +37,7 @@
       * Code Completion
       * A strong following and healthy surrounding support ecosystems.
 
-### - Atom: Free softwary for Windows, Mac, and Linux created by Github folks with some features like
+### - Atom: Free software for Windows, Mac, and Linux created by Github folks with some features like
 
       *Syntax Highlighting
       *Themes
@@ -41,7 +45,7 @@
 
 ### Text Editors VS. IDEs
 
-A text editor is a program that edits your plain-text, while an Integrated Development Environment (IDE) is a compilation of many diffent programs allowing for a more robust all-in-one software package.
+A text editor is a program that edits your plain-text, while an Integrated Development Environment (IDE) is a compilation of many different programs allowing for a more robust all-in-one software package.
 
 ## TERMINAL CHEAT SHEET
 

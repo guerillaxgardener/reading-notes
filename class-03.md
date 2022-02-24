@@ -62,7 +62,7 @@ CSS3 has ability to create image borders and to round our border corners in inte
 
 ```JavaScript
  if (score >= 50) {
-    congrgagulate();   //code to execute if true
+    congratulate();   //code to execute if true
     } else  {
     encourage();
     }
@@ -73,7 +73,7 @@ CSS3 has ability to create image borders and to round our border corners in inte
 
 ### Switch Statements
 
-* start with a switch value and different cases determine whch code will run based off varables matching to value
+* start with a switch value and different cases determine which code will run based off variables matching to value
 
 ```JavaScript
  switch (level) {
@@ -110,6 +110,6 @@ while (i < 10){
 }
 ```
 
-#### Do while loop: Simlar operation to the While Loop, but will run through all code in curly backets one time at least even if condition evaluates to false
+#### Do while loop: Similar operation to the While Loop, but will run through all code in curly brackets one time at least even if condition evaluates to false
 
 <=====[ BACK!](README.md)

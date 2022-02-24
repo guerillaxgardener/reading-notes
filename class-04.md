@@ -59,7 +59,7 @@ Browsers will default to normal flow without specification.
 
 * Relative Positioning: Shifts elements around without affecting surroundings
 
-* Absolute Positioning: positions in relaton to containing element without affecting surrounding elements.
+* Absolute Positioning: positions in relation to containing element without affecting surrounding elements.
 
 * Floating an element allows us to just place it on a sde of a box.
 
@@ -84,7 +84,7 @@ Allow us to create professional and flexible design simply with our webpages.
 Lets you group many statements together to perform a specific task.
 
 ```JavaScript
-function = updateMessage() {    //this top group of info is the FUNCTION DECLARATON
+function = updateMessage() {    //this top group of info is the FUNCTION DECLARATION
   var el = document.getElementById('message');
   el.textContent = msg
 }
@@ -99,7 +99,7 @@ updateMessage();      //here we are calling the function
 
 #### Local vs Global Scopes:
 
-* Local Variables : created with `var` inside function and only exists within functon's scope
+* Local Variables : created with `var` inside function and only exists within function's scope
 
 * Global Variables: created outside function and can be used throughout your script.
 
@@ -118,4 +118,4 @@ updateMessage();      //here we are calling the function
 * Prepares us for job search
 * Prepares us for our future work environments
 
-<>===== [BACK!](README.md)
+<===== [BACK!](README.md)

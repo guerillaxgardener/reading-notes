@@ -131,7 +131,7 @@ Designing a script is done using ___TASKS___
 
 * ___Tasks___ can be further broken down into ___STEPS___ like the steps we'd use to open a banana.
 
-Coding the steps involves a knowledge of ___VOCABULARY___ and ___SYNTAX___ to allow for proper coding in the correct format for the comuter to understand and perform our tasks.
+Coding the steps involves a knowledge of ___VOCABULARY___ and ___SYNTAX___ to allow for proper coding in the correct format for the computer to understand and perform our tasks.
 
 ___
 &#127803;

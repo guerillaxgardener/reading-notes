@@ -2,7 +2,7 @@
 
 * Stored in ___FILE SYSTEM___
 
-* Stored by browser through application onto our computer's harddrive.
+* Stored by browser through application onto our computer's hard drive.
 
 * We can view things stored on the web as well!
 
@@ -18,13 +18,13 @@ ___JSON___ : JavaScript object notation
 
 ### ___Why should we know it___
 
-* Used widely accross the internet in things we'll use
+* Used widely across the internet in things we'll use
 
 * It's lightweight for sending, easy to read/write
 
 * Integrates well into JavaScript since it's built on valid JavaScript
 
-* Integrates easy with most languages by library or funtionalty to parse JSON
+* Integrates easy with most languages by library or functionality to parse JSON
 
 * Used throughout career in:
   * creating API

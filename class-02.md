@@ -6,7 +6,7 @@
 >
 >* ___Structural Markup___ : we'll use these for describing headings and paragraphs
 >
->* ___Semantic Markup___ : Provides amplifying info on somrthing within your webpage.
+>* ___Semantic Markup___ : Provides amplifying info on something within your webpage.
 
 ### Headings `<h1>, <h2>,...,<h6>`
 
@@ -20,7 +20,7 @@
 
 > `<b>` enclosing in here will make text ____bold____ `</b>`
 >
-> `<i>` Text enclosed in these will be *itacized* `</i>`
+> `<i>` Text enclosed in these will be *italicized* `</i>`
 
 ### Line Breaks and Horizontal Rules
 
@@ -54,11 +54,11 @@ ___
 
 ### What CSS Does
 
->CSS (Cascading style sheets) allow us to creat rules that govern layout and properties of elements on site
+>CSS (Cascading style sheets) allow us to create rules that govern layout and properties of elements on site
 
 ### How CSS Works
 >
->CSS works by manipulating invisble boxes surrounding each HTML element.
+>CSS works by manipulating invisible boxes surrounding each HTML element.
 >
 > ### Rules, Properties, and Values
 >
@@ -89,13 +89,13 @@ ___
 
 ### Variables
 >
->Data that can be stored under custom values for later use wihin code.
+>Data that can be stored under custom values for later use within code.
 >
 > Variables are made up of the variable keyword and then the variable name.
 >
 >> EX: `var quantity;`
 >
-> Assinging a variable : made up of variable name set equal tpo value
+> Assigning a variable : made up of variable name set equal tpo value
 >> EX: `quantity = 3;`
 
 ### Data Types
