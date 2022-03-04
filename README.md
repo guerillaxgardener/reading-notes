@@ -90,7 +90,7 @@
 
 ## About Me
 
-Hello, my name is Michael and I love skateboarding, rockclimbing and am currently highly motivated to learn software development!
+Hello, my name is Michael and I love skateboarding, rock climbing and am currently highly motivated to learn software development!
 
 [Github](https://github.com/guerillaxgardener)
 
@@ -103,3 +103,5 @@ Hello, my name is Michael and I love skateboarding, rockclimbing and am currentl
 * #### HTML & CSS: Design and Build Websites by Jon Duckett; ISBN 978-1-118-00818-8
 
 * #### JavaScript & jQuery: Interactive Front-End Web Development by Jon Duckett; ISBN 978-1-118-53164-8
+
+* #### <https://www.w3schools.com/js/js_objects.asp>

@@ -80,32 +80,27 @@ hotel['name'] = 'Park';
 
 ### THIS (THE KEYWORD)
 
-Commonly used inside functions and objects.
+>Commonly used inside functions and objects.
 Refers to object in which the function operates.
+
+Q. How does the term this differ when reference an object literal versus a Constructor function?
+
+1. Within an OBJECT LITERAL, 'this' refers to the object that it's being used within itself.
+
+2. Within a CONSTRUCTOR FUNCTION, 'this' is referring to whichever object is being called by 'new' keyword to be instantiated, aka the object that "owns" that code.
 
 ### Arrays are objects
 
 * They are a special type of object holding related set of key/value pairs (like all objects)
 * key for all values are their corresponding index values
 
-### Three groups of Built-In Objects
+### Three groups of Built-In JavaScript Objects
 
-1. Document Object Model: creates a model of the current web page.
+1. ___Document Object Model:___ creates a model of the current web page.
 
-2. Browser Object Model: creates a model of browser tab/window
+2. ___Browser Object Model:___ creates a model of browser tab/window
 
-3. Global JavaScript Objects: Group of objects often starting with capital letter.
+3. ___Global JavaScript Objects:___ Group of objects often starting with capital letter.
 
-* string: working with strings
-
-* number: working with numbers
-
-* boolean: working with boolean values
-
-* date: handle dates
-
-* math: calculations
-
-* regex: match patterns in strings
 
 <===== [BACK!](README.md)
