@@ -51,13 +51,14 @@ ___Objects___ do not assign a value but instead a reference to a value.
 
 In an object:
 
-* *variables become properties*
+* _variables become properties_
 
-* *Functions become methods*
+* _Functions become methods_
 
 ### Creating Object Literal Notation
 
 Easiest and most popular way to make objects
+
 ```
 var hotel = {
   name: 'Quay`,
@@ -84,4 +85,75 @@ DOM specifies how browsers should create HTML model
 
 2. use text content, child elements, and attributes from the element.
 
-<>===== [BACK!](README.md)
+---
+
+## Questions to Answer After Reading
+
+### Describe Object Literals in JavaScript
+
+* an ___OBJECT___ in JavaScript is just a type of value in JavaScript that may have connections with other values.
+
+* an ___OBJECT LITERAL___ is just an object value that we ___literally___ write into program or app.
+
+  * Usually consists of a comma separated list of key-value pairs enclosed in curly brackets.
+
+### Describe Dot and Bracket Notation for JavaScript Objects
+
+  We can use either method to access property of an object, but what's the difference?
+
+#### ___Dot Notation:___ Most used and more readable notation
+
+* Not used when:
+
+  * property name starts with numbers
+
+  * property name is a "string"
+
+
+Syntax: `objName.propertyName;`
+
+#### ___Bracket Notation:___ Used when identifier starts with numbers or is a string
+
+* used when:
+
+  * property name has invalid identifier (starts with number or contains symbols)
+
+  * property name is a "string"
+
+    Syntax: `objName[123];`
+  
+* What is the DOM?
+
+  * Document Object Model: This is the data representation of structure and content on a webpage. This DOM programming interface allows us to create programs that can change document structure, style, and content.
+
+* What is DOM manipulation
+
+  * DOM manipulation is the use of JavaScript to manipulate the webpage in our browser
+
+* What are JavaScript objects
+
+  * They are sets of variables and functions that are defined(or created) through object literals
+  
+    ```JavaScript
+    const michael = {
+      firstName: "Michael",
+      lastName: "Maker",
+      age: 27,
+      fullName: function(){
+        return `${this.firstName} ${this.lastName}, It's great to finally meet you...`
+      }
+      multipliedName: () => return `${firstName}`*5
+
+    ```
+
+* What are JavaScript methods?
+
+  * A JavaScript Method is a function stored as a property within an object
+
+    * We access these object methods with the following syntax:
+
+    ```JavaScript
+    objectName.methodName();
+    ```
+
+<===== [BACK!](README.md)
