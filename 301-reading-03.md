@@ -4,7 +4,7 @@
 
 ___What does .map() return?___
 
-* Allows us to iterate through an array with a callback function applied to the arrays elements, then returning an array of the modified elements from the frst array
+* Allows us to iterate through an array with a callback function applied to the arrays elements, and returns an array of the modified elements from the first array
 
 ___How do I loop through an array and display each value in JSX in React?___
 
@@ -16,7 +16,20 @@ ___Each list item needs a unique _.___
 
 ___What is the purpose of a key?___
 
-* A special string attribute needed when creatign lists of elements, they help React identify which items have changed, are added, or are removed; this gives element in an array a stable identity.
+* A special string attribute needed when creating lists of elements, they help React identify which items have changed, are added, or are removed; this gives elements in an array stable identities.
+
+* A good rule of thumb is assuming elements inside a `.map()` call need a key.
+
+```JavaScript
+const numbers = [1, 2, 3, 4, 5];
+const listItems = numbers.map((number) =>
+  <li key={number.toString()}>
+    {number}
+  </li>
+);
+```
+
+^ direct quoted code from <https://reactjs.org/docs/lists-and-keys.html>
 
 ---
 
@@ -24,13 +37,13 @@ ___What is the purpose of a key?___
 
 ___What is the spread operator?___
 
-* The ___Spread Operator___ is a simple syntax used in JavaScript that expands an iterable object, usually strings. 
+* The ___Spread Operator___ is a simple syntax used in JavaScript that expands an iterable object, usually strings.
 
 ___List 4 things that the spread operator can do.___
 
 1. Copying an array
-2. Usinn Math functions
-3. Combinging objects
+2. Using Math functions
+3. Combining objects
 4. Concatenating or combining of arrays
 
 ___Give an example of using the spread operator to combine two arrays.___
@@ -60,7 +73,6 @@ console.log(michaelsFruitPlusWords)
 // [object Array] (8)
 ["I","love","fruit","🍏","🍊","🍌","🍉","🍍"]
 ```
-
 
 ___Give an example of using the spread operator to combine two objects into one.___
 
