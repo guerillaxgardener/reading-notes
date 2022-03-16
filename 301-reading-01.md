@@ -62,18 +62,6 @@ Uni-Lateral downwards from parent to child. The child should inherit data from p
 
 ---
 
-## Things I want to know more about
-
-1.
-
-2.
-
-3.
-
-4.
-
----
-
 ### Sources Used
 
 * https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm
