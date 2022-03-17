@@ -6,7 +6,7 @@
 
 ___1. What is a ‘Controlled Component’?___
 
-* In React, a contolled component is one that renders a form and also controls what happens in that form on subsequent user inputs. (https://reactjs.org/docs/forms.html)
+* In React, a controlled component is one that renders a form and also controls what happens in that form on subsequent user inputs. (https://reactjs.org/docs/forms.html)
 
 * Component becomes 'single source of truth' for the rendering of itself
 
@@ -57,7 +57,7 @@ To shorten our `if` statements into one line of code.
 ___Rewrite the following statement using a ternary statement:___
 
 ```JavaScript
-// typcal 'if'...
+// typical 'if'...
 if(x===y){
   console.log(true);
 } else {
@@ -65,7 +65,7 @@ if(x===y){
 }
 ```
 
-Can be writen as.....
+Can be written as.....
 
 ```JavaScript
 // Ternary 'if'
