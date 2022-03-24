@@ -12,15 +12,16 @@
 
 [Class 4 Reading - React and Forms](301-reading-04.md)
 
-[Class 5 Reading -](301-reading-05.md)
+[Class 5 Reading - Putting it all together
+](301-reading-05.md)
 
-[Class 6 Reading -](301-reading-06.md)
+[Class 6 Reading - Node.js](301-reading-06.md)
 
-[Class 7 Reading -](301-reading-07.md)
+[Class 7 Reading - Rest](301-reading-07.md)
 
-[Class 8 Reading -](301-reading-08.md)
+[Class 8 Reading - APIs](301-reading-08.md)
 
-[Class 9 Reading -](301-reading-09.md)
+[Class 9 Reading - Functional Programming](301-reading-09.md)
 
 [Class 10 Reading -](301-reading-10.md)
 
