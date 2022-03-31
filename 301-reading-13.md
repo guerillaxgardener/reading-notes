@@ -1,59 +1,49 @@
-# Code 301 Reading 13 Mongo and Mongoose
+# Code 301 Reading 13 More CRUD
 
-## [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+## [CRUD Basics](https://medium.com/geekculture/crud-operations-explained-2a44096e9c88)
 
-Fill in the chart below with five differences between SQL and NoSQL databases:
+  > Create
+  > Read
+  > Update
+  > Delete
 
-SQL	NoSQL
- 	 
-What kind of data is a good fit for an SQL database?
+Which HTTP method would you use to update a record through an API?
 
+* PUT
 
-Give a real world example.
+Which REST methods require an ID parameter?
 
-
-What kind of data is a good fit a NoSQL database?
-
-
-Give a real world example.
-
-
-Which type of database is best for hierarchical data storage?
-
-
-Which type of database is best for scalability?
+* PUT and DELETE
 
 ---
 ---
 
-## [nosql vs sql VIDEO](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+## [Speed Coding: Building a CRUD API](https://www.youtube.com/watch?v=EzNcBhSv1Wo)
 
-What does SQL stand for?
-What is a relational database?
-What type of structure does a relational database work with?
-What is a ‘schema’?
-What is a NoSQL database?
-How does it work?
-What is inside of a Mongo database?
-Which is more flexible - SQL or MongoDB? and why.
-What is the disadvantage of a NoSQL database?
----
----
+What’s the relationship between REST and CRUD?
 
-<!-- skim for some things learned -->
+* CREATE = POST REST verb
+* READ = GET REST verb
+* UPDATE = PUT REST verb
+* DELETE = DELETE REST verb
 
-## [mongoose api](https://mongoosejs.com/docs/api.html#Model)
+If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
 
----
----
+* create routes to CRUD
 
-## [React Router](https://reactrouter.com/web/api/BrowserRouter)
+* Bring in and mount router
+
+* Connect to database
+
+* create each function to handle CRUD with DB
+
+* Connect to front-end
 
 ---
 ---
 
 ## Things I want to know more about
 
-<!-- * insert thin here -->
+I am very interested in learning about all the validators he is using in video like the npx he created allowing him to just auto-create a custom base back end server.
 
 <===== [BACK!](README.md)
