@@ -23,17 +23,17 @@
 
 [Class 9 Reading - Functional Programming](301-reading-09.md)
 
-[Class 10 Reading -](301-reading-10.md)
+[Class 10 Reading - Debugging & Class 10 Notes](301-reading-10.md)
 
-[Class 11 Reading -](301-reading-11.md)
+[Class 11 Reading - Mongo and Mongoose](301-reading-11.md)
 
-[Class 12 Reading -](301-reading-12.md)
+[Class 12 Reading - CRUD](301-reading-12.md)
 
-[Class 13 Reading -](301-reading-13.md)
+[Class 13 Reading - More CRUD](301-reading-13.md)
 
-[Class 14 Reading -](301-reading-14.md)
+[Class 14 Reading - Diversity & Inclusion in the Tech Industry](301-reading-14.md)
 
-[Class 15 Reading -](301-reading-15.md)
+[Class 15 Reading - Authentication](301-reading-15.md)
 
 ---
 
