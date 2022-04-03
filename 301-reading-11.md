@@ -57,12 +57,12 @@ What is the disadvantage of a NoSQL database?
 
 <!-- skim for some things learned -->
 
-## [mongoose api](https://mongoosejs.com/docs/api.html#Model)
+<!-- ## [mongoose api](https://mongoosejs.com/docs/api.html#Model)
 
 ---
 ---
 
-## [React Router](https://reactrouter.com/web/api/BrowserRouter)
+## [React Router](https://reactrouter.com/web/api/BrowserRouter) -->
 
 ---
 ---
